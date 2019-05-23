@@ -85,7 +85,7 @@
             "role_id":["tn"],
             "description":["tn"]
         },
-
+        //start accounting
         "account_category":{
             "name":["vcnn",30],
             "number":["vcnn",30],
@@ -212,7 +212,7 @@
             "description":["tn"],
             "_comments":[]
         },
-
+        //end accounting
         "_hidden":[
             "users__password",
             "user__password"
@@ -246,12 +246,12 @@
     },
     "is_registration_public": true,
     "_f_register" : {
-        "app_name" : "cloudfin",
-        "name" : "The Chairman",
-        "email" : "nyolamike@gmail.com",
+        "app_name" : "coolapp",
+        "name" : "COOL OWNER",
+        "email" : "iamnyola@gmail.com",
         "country" : "uganda",
         "phone_number" : "0703158861",
-        "password" : "qwerty2015"
+        "password" : "qwerty"
     },
     "is_registration_offline": false,
     "upload_files_with_post_data": false,
